@@ -20,6 +20,7 @@ Flags:
 ------
 
 -i 	indent (string); sets the indet used, default: 2 whitespaces, "  "
+
 -p	prefix (string); sets the prefix used, default: empty string, ""
 
 	NOTE: if prefix is set to ```FILENAME``` the name of the current file is used as prefix.
